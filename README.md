@@ -8,7 +8,9 @@
 - 👀 I’m interested in Python, Artificial Intelligence and Machine Learning
 - 🌱 I’m currently learning Reinforcement Learning for Non Gaming Environments
 - 💞️ I’m looking to collaborate on Ai ML Projects
-- 📫 You can contact me via comments on my Repos.
+- 📫 You can contact me via comments on my Repos or LinkedIN
+- 🔗 [Amitabh Suman | LinkedIn](https://www.linkedin.com/in/amitabh-suman-4647bb29/)
+
 
 <!---
 Amitabh1989/Amitabh1989 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
