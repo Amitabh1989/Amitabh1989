@@ -8,8 +8,9 @@
 - 👀 I’m interested in Python, Artificial Intelligence and Machine Learning
 - 🌱 I’m currently learning Reinforcement Learning for Non Gaming Environments
 - 💞️ I’m looking to collaborate on Ai ML Projects
-- 📫 You can contact me via comments on my Repos or LinkedIN
-- 🔗 [Amitabh Suman | LinkedIN](https://www.linkedin.com/in/amitabh-suman-4647bb29/)
+- 📫 You can contact me via comments on my Repos or LinkedIn
+- 🔗 [Amitabh Suman | LinkedIn](https://www.linkedin.com/in/amitabh-suman-4647bb29/)
+- 📌 Bangalore, India
 
 
 <!---
