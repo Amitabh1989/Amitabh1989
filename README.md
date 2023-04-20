@@ -19,7 +19,7 @@
 - 🌱 I’m currently learning Reinforcement Learning for Non Gaming Environments
 - 💞️ I’m looking to collaborate on Ai ML Projects
 - 📫 You can contact me via comments on my Repos or LinkedIn
-- 🔗 [Amitabh Suman | LinkedIn](https://www.linkedin.com/in/amitabh-suman-4647bb29/)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/> [Amitabh Suman | LinkedIn](https://www.linkedin.com/in/amitabh-suman-4647bb29/)
 - 📌 Bangalore, India
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80" /> &nbsp; &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="80"/>
