@@ -2,6 +2,12 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
 </div> --->
 
+<!-- in your header -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+
+<!-- in your body -->
+<i class="devicon-devicon-plain"></i>
+
 ![Coding_GIF](https://user-images.githubusercontent.com/12171805/210138791-c6855daa-0726-4f64-9737-6e1c37991b4d.gif)
 
 - 👋 Hi, I’m @Amitabh1989
