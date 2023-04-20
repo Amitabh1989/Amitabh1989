@@ -1,9 +1,13 @@
+<header>
+  <h1>Welcom to my GitHub !</h1>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+</header>
 <!--- <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
 </div> --->
 
 <!-- in your header -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+
 
 <!-- in your body -->
 <i class="devicon-devicon-plain"></i>
