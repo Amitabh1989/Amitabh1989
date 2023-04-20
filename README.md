@@ -22,9 +22,8 @@
 - 🔗 [Amitabh Suman | LinkedIn](https://www.linkedin.com/in/amitabh-suman-4647bb29/)
 - 📌 Bangalore, India
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-          
 <!---
 Amitabh1989/Amitabh1989 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
