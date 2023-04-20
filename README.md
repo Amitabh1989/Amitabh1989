@@ -2,41 +2,38 @@
   <h1>Welcome to my GitHub !</h1>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 </header>
-<!--- <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
-</div> --->
 
-<!-- in your header -->
+  <!--- <div id="header" align="center">
+    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
+  </div> --->
+
+  ![Coding_GIF](https://user-images.githubusercontent.com/12171805/210138791-c6855daa-0726-4f64-9737-6e1c37991b4d.gif)
+
+  - 👋 Hi, I’m @Amitabh1989
+  - 👀 I’m interested in Python, Artificial Intelligence and Machine Learning
+  - 🌱 I’m currently learning Reinforcement Learning for Non Gaming Environments
+  - 💞️ I’m looking to collaborate on Ai ML Projects
+  - 📫 You can contact me via comments on my Repos or LinkedIn
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/> [Amitabh Suman | LinkedIn](https://www.linkedin.com/in/amitabh-suman-4647bb29/)
+  - 📌 Bangalore, India
 
 
-<!-- in your body -->
-<i class="devicon-devicon-plain"></i>
+  <hr>
+  
+  <div align="center">
+  <p><img src="https://user-images.githubusercontent.com/12171805/233247634-37b471f3-9899-48b9-bbb4-c3d103f7ef57.gif" width="75"/><p><h3>Currently Reading</h3></p><a href="https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf">"Sutton and Barto" : Reinforcement Learning 2nd Edition</a></p>
+  </div>
 
-![Coding_GIF](https://user-images.githubusercontent.com/12171805/210138791-c6855daa-0726-4f64-9737-6e1c37991b4d.gif)
+  <div align="center">
+  <p><img src="https://user-images.githubusercontent.com/12171805/233241540-99dafe10-7ddb-4780-8627-5eed92286fbb.gif" width="80"/><p><h3>Currently Working</h3></p>Self learning, coding and teaching my RL agent to understand test environment and execute Test case + Find defects </p>
+  </div>
 
-- 👋 Hi, I’m @Amitabh1989
-- 👀 I’m interested in Python, Artificial Intelligence and Machine Learning
-- 🌱 I’m currently learning Reinforcement Learning for Non Gaming Environments
-- 💞️ I’m looking to collaborate on Ai ML Projects
-- 📫 You can contact me via comments on my Repos or LinkedIn
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/> [Amitabh Suman | LinkedIn](https://www.linkedin.com/in/amitabh-suman-4647bb29/)
-- 📌 Bangalore, India
-
+  <hr>
+ 
+ <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80" /> &nbsp; &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="80"/>
  &nbsp; &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="80" /> &nbsp; &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="80"/> &nbsp; &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="80"/> &nbsp; &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="80"/> &nbsp; &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="80"/> &nbsp; &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="80" /> &nbsp; &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="80"/> &nbsp; &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"  width="80"/> &nbsp; &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="80"/> &nbsp; &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="80" /> &nbsp; &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="80" />
-
-
-
-
-
-
-
-
-
-
-
-
-
+</div>
 
 <!---
 Amitabh1989/Amitabh1989 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
