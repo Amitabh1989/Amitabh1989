@@ -23,6 +23,15 @@
 - 📌 Bangalore, India
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" width="80" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="80" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="80"/>
+
+
+
+
+
 
 <!---
 Amitabh1989/Amitabh1989 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
