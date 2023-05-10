@@ -2,6 +2,12 @@
   <h1>Welcome to my GitHub !</h1>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 </header>
+<style>
+.vl {
+  border-left: 4px solid grey;
+  height: 50px;
+}
+</style>
 
   <!--- <div id="header" align="center">
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
@@ -28,6 +34,20 @@
   <p><img src="https://user-images.githubusercontent.com/12171805/233241540-99dafe10-7ddb-4780-8627-5eed92286fbb.gif" width="80"/><p><h3>Currently Working</h3></p>Self learning, coding and teaching my RL agent to understand test environment and execute Test case + Find defects </p>
   </div>
 
+  <hr>
+ <div align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=amitabh1989&show_icons=true"/>
+ </div?
+ 
+<div align="center">
+  <p style="color: #0078D6"><h3>Total contributions and streaks</h3></p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitabh1989"/>
+</div>
+
+<br>
+ <div align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amitabh1989"/>
+ </div>
   <hr>
  
  <div align="center">
