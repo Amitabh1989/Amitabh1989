@@ -24,17 +24,37 @@
   - 📌 Bangalore, India
 
 
-  <hr>
-  
-  <div align="center">
-  <p><img src="https://user-images.githubusercontent.com/12171805/233247634-37b471f3-9899-48b9-bbb4-c3d103f7ef57.gif" width="75"/><p><h3>Currently Reading</h3></p><a href="https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf">"Sutton and Barto" : Reinforcement Learning 2nd Edition</a></p>
-  </div>
+<hr>
 
-  <div align="center">
-  <p><img src="https://user-images.githubusercontent.com/12171805/233241540-99dafe10-7ddb-4780-8627-5eed92286fbb.gif" width="80"/><p><h3>Currently Working</h3></p>Self learning, coding and teaching my RL agent to understand test environment and execute Test case + Find defects </p>
-  </div>
+<div align="center">
+<table width="400px" style="border: none;">
+    <tbody>
+        <tr valign="top">
+            <td width="100px" align="center">
+            <span><strong>Reading</strong></span><br>
+            <img height="100px" src="https://user-images.githubusercontent.com/12171805/233247634-37b471f3-9899-48b9-bbb4-c3d103f7ef57.gif" width="100px"/>
+            </td>
+            <td width="300px" align="center">
+            <span><strong>Reinforcement Learning</strong></span><br>
+            <a href="https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf">"Sutton and Barto" : Reinforcement Learning 2nd Edition</a>
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="100px" align="center">
+            <span><strong>Working</strong></span><br>
+            <img height="100px" src="https://user-images.githubusercontent.com/12171805/233241540-99dafe10-7ddb-4780-8627-5eed92286fbb.gif" width="100px"/>
+            </td>
+            <td width="300px" align="center">
+            <span><strong>Personal Project</strong></span><br>
+			<span><strong>Self learning, coding and teaching my RL agent to understand test environment and execute Test case + Find defects</strong></span><br>
+            </td>
+        </tr>
+    </tbody>
+</table>
+</div>
 
   <hr>
+
  <div align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=amitabh1989&show_icons=true"/>
  </div?
