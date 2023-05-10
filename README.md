@@ -2,12 +2,6 @@
   <h1>Welcome to my GitHub !</h1>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 </header>
-<style>
-.vl {
-  border-left: 4px solid grey;
-  height: 50px;
-}
-</style>
 
   <!--- <div id="header" align="center">
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
