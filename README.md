@@ -21,7 +21,7 @@
 <br>
 
 <div align="center">
-	<p style="color: #0078D6"><h2>What's keeping me busy?</h2></p>
+	<p style="color: #0078D6"><h2>What's keeping me busy? 🕰️ </h2></p>
 <table width="400px" style="border: none;">
     <tbody>
         <tr valign="top">
@@ -51,7 +51,7 @@
   <hr>
 
  <div align="center">
- <p style="color: #0078D6"><h2>Stats dont lie !!</h2></p>
+ <p style="color: #0078D6"><h2>Stats dont lie !! 📈 </h2></p>
 	<img src="https://github-readme-stats.vercel.app/api?username=amitabh1989&show_icons=true"/>
  </div?
  
@@ -67,7 +67,7 @@
   <hr>
  
  <div align="center">
-<p style="color: #0078D6"><h2>Languages and Tools</h2></p>
+<p style="color: #0078D6"><h2>Who are my friends 🙄 🖥️ </h2></p>
 
 <a href="https://python.org/" target="_blank" >
     <img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif"  height="90" />
@@ -98,15 +98,23 @@
 <br>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="80" /> &nbsp; &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="80"/> &nbsp; &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="80"/> &nbsp; &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="80"/> &nbsp; &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="80"/> &nbsp; &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="80" /> &nbsp; &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="80"/> &nbsp; &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"  width="80"/> &nbsp; &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="80" /> &nbsp; &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="80" /> &nbsp; &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/thealgorithms/thealgorithms-original.svg" width="80" />
           
-
 </div>
 
-<div align="center">
-<p style="color: #0078D6"><h2>Certifications ⬇️</h2></p>
+<hr>
 
-<a href="https://github.com/Amitabh1989/Amitabh1989/blob/main/My_IIT_Certificate.jpg" target="_blank"> ▪️ PGC in Data Science and Machine Learning, IIT Roorkee
+<div align="left">
+<p style="color: #0078D6"><h2>Certifications and Awards👨‍🎓 </h2></p>
+
+<a href="https://github.com/Amitabh1989/Amitabh1989/blob/main/My_IIT_Certificate.jpg" target="_blank"> ▪️ 📚 PGC in Data Science and Machine Learning, IIT Roorkee
 </a>  &nbsp; &nbsp; 
-	
+
+<a href="https://github.com/Amitabh1989/Amitabh1989/blob/main/Amitabh%20Suman%20Hackathon%20TSW.pdf" target="_blank"> ▪️ 🥇 Winner, AI ML Hackathon, IIT Roorkee & Times TSW
+</a>  &nbsp; &nbsp; 
+
+<a href="https://github.com/Amitabh1989/Amitabh1989/blob/main/Amitabh%20Suman%20Hackathon%20TSW.pdf" target="_blank"> ▪️ 🥈 Runner Up, AI ML Hackathon, IIT Roorkee
+</a>  &nbsp; &nbsp; 
+
+
 </div>
 
 <!---
