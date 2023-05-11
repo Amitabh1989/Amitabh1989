@@ -92,11 +92,11 @@
 </a>
 
 <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
-    <img src="https://miro.medium.com/v2/resize:fit:640/1*cWFpj7Fp3BgLRC-fz5KUpw.gif"  height="120" />
-</a>  &nbsp; &nbsp; 
+    <img src="https://miro.medium.com/v2/resize:fit:640/1*cWFpj7Fp3BgLRC-fz5KUpw.gif"  height="120" width="130" />
+</a>
 
   <a href="https://git-scm.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/DiptoChakrabarty/DiptoChakrabarty/master/assets/git.gif"  height="90" width="110" />
+    <img src="https://raw.githubusercontent.com/DiptoChakrabarty/DiptoChakrabarty/master/assets/git.gif"  height="90" width="130" />
   </a>  &nbsp; &nbsp; 
 
   <a href="https://kubernetes.io/" target="_blank" >
