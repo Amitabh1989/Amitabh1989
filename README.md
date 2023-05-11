@@ -12,12 +12,22 @@
   - 👋 Hi, I’m @Amitabh1989
   - 👀 I’m interested in Python, Artificial Intelligence and Machine Learning
   - 🌱 I’m currently learning Reinforcement Learning for Non Gaming Environments
-  - 💞️ I’m looking to collaborate on Ai ML Projects
+  - 💞️ I’m looking to collaborate on Ai ML Projects and Design Patterns
   - 📫 You can contact me via comments on my Repos or LinkedIn
   - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/> [Amitabh Suman | LinkedIn](https://www.linkedin.com/in/amitabh-suman-4647bb29/)
   - 📌 Bangalore, India
+  - 😃 Fun fact : GitHub is Awesome. 😉 (posted this in 2023 !)
 
+<br>
 
+<div align="center">
+	<p style="color: #0078D6"><h2>🏆 GitHub Profile Trophy 🏆</h2></p>
+<br>
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Amitabh1989&margin-w=15&margin-h=15&row=1&column=6)
+
+</div>
+	
 <br>
 
 <div align="center">
