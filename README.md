@@ -101,6 +101,14 @@
 
 </div>
 
+<div align="center">
+<p style="color: #0078D6"><h2>Certifications ⬇️</h2></p>
+
+<a href="https://github.com/Amitabh1989/Amitabh1989/blob/main/My_IIT_Certificate.jpg" target="_blank"> ▪️ PGC in Data Science and Machine Learning, IIT Roorkee
+</a>  &nbsp; &nbsp; 
+	
+</div>
+
 <!---
 Amitabh1989/Amitabh1989 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
