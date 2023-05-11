@@ -124,6 +124,9 @@
 <a href="https://github.com/Amitabh1989/Amitabh1989/blob/main/Amitabh%20Suman%20Hackathon%20TSW.pdf" target="_blank"> ▪️ 🥈 Runner Up, AI ML Hackathon, IIT Roorkee
 </a>  &nbsp; &nbsp; 
 
+<br>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{Amitabh1989}/count.svg" alt="Amitabh's :: Visitor's Count" /></p>
 
 </div>
 
@@ -132,5 +135,7 @@ Amitabh1989/Amitabh1989 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 
 ![me](https://github.com/Amitabh1989/Readme_1/blob/main/Coding_GIF.gif)
+
+https://github.com/alexandresanlim/Badges4-README.md-Profile
 
 --->
