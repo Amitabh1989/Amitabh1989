@@ -17,6 +17,7 @@
   - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/> [Amitabh Suman | LinkedIn](https://www.linkedin.com/in/amitabh-suman-4647bb29/)
   - 📌 Bangalore, India
   - 😃 Fun fact : GitHub is Awesome. 😉 (posted this in 2023 !)
+  - 💻 Online course : CI CD using Docker, Kubernetes, Jenkins on AWS.
 
 <br>
 
