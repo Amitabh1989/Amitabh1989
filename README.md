@@ -162,6 +162,14 @@
 
   <br>
 
+<div align="center">
+<p style="color: #0078D6"><h2>Other Stats 📊 </h2></p>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amitabh1989&) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amitabh1989) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amitabh1989)
+
   <p align="center"><img src="https://profile-counter.glitch.me/{Amitabh1989}/count.svg" alt="Amitabh's :: Visitor's Count" /></p>
 </div>
 
