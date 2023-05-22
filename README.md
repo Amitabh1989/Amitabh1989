@@ -69,6 +69,12 @@
 
 <hr>
 
+<!-- 
+<a href="https://github.com/amitabh1989">
+    <img src="https://github-stats-alpha.vercel.app/api?username=amitabh1989&cc=22272e&tc=37BCF6&ic=fff&bc=ffff&show_icons=true">
+</a>
+-->
+
 <div align="center">
   <p style="color: #0078D6"><h2>Stats don't lie!! 📈</h2></p>
   <img src="https://github-readme-stats.vercel.app/api?username=amitabh1989&show_icons=true"/>
