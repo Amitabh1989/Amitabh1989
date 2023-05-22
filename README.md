@@ -3,6 +3,13 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 </header>
 
+<p align="left">
+<a href="https://github.com/amitabh1989">
+    <img src="https://readme-typing-svg.demolab.com?font=Courier&size=18&duration=1800&pause=100&multiline=true&width=700&height=100&lines=Ai+Nebula;Software+Developer+%7C;AI+%7C+Deep+Learning+%7C+Data+Structures+and+Algorithms;Software+Design+Principles" alt="Typing SVG" />
+</a>
+<br/>
+
+
 <!--- 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
