@@ -5,7 +5,7 @@
 
 <p align="left">
 <a href="https://github.com/amitabh1989">
-    <img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=20&color=black&duration=1800&pause=100&multiline=true&width=700&height=105&lines=Ai-Nebula;Software+Developer+%7C+Dev+Ops;AI+%7C+Deep+Learning+%7C+Data+Structures+and+Algorithms;Software+Design+Principles" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Bahnschrift&size=20&color=blue&duration=1800&pause=100&multiline=true&width=700&height=105&lines=Ai-Nebula;Software+Developer+%7C+Dev+Ops;AI+%7C+Deep+Learning+%7C+Data+Structures+and+Algorithms;Software+Design+Principles" alt="Typing SVG" />
 </a>
 <br/>
 
