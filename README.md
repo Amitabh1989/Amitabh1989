@@ -27,7 +27,7 @@
 - 📌 Bangalore, India
 - 😃 Fun fact: GitHub is Awesome. 😉 (posted this in 2023!)
 - 💻 Online course: CI/CD using Docker, Kubernetes, Jenkins on AWS.
-
+  
 <br>
 
 <div align="center">
@@ -130,6 +130,10 @@
 
   <a href="https://code.visualstudio.com/download" target="_blank" >
     <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--eDUx93PJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn.sanity.io/images/82qqyrei/production/d0eab98cd583f0b0db13afd90288b53ad5e14e59-828x815.gif" height="100" width="100"/>
+  </a>
+  
+  <a href="https://www.javascript.com/" target="_blank" >
+    <img src="https://media.giphy.com/media/GZu3NtMoA6Lp2alLKk/giphy.gif" width="200"/>  
   </a>
   
   <br>
