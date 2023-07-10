@@ -137,7 +137,9 @@
   </a>
   
   <br>
-  <img src="https://maxmautner.com/public/images/django.gif" width="150" height="120"/>
+  <img src="https://maxmautner.com/public/images/django.gif" width="150" height="120"/> &nbsp; &nbsp; 
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczgwejM3dGtseXNoNGtsbzZqMmFsZDl0bHo5NjBjY240M3JsMGg5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RJzm826vu7WbJvBtxX/giphy.gif" width="120" height="120"/>
+  
   <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="80"/> &nbsp; &nbsp; 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="80"/> &nbsp; &nbsp; 
@@ -149,6 +151,8 @@
   <br> <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="80"/> &nbsp; &nbsp; 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/thealgorithms/thealgorithms-original.svg" width="80"/> &nbsp; &nbsp; 
+  <img src="https://www.django-rest-framework.org/img/logo.png" width="150" height="120"/> &nbsp; &nbsp; 
+  
           
           
 </div>
