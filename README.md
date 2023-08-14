@@ -1,5 +1,5 @@
 <header>
-  <h1>Heyaaa, welcome to my GitHub! 👋 </h1>
+  <h1>Heyaaaa, welcome to my GitHub! 👋 </h1>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 </header>
 
