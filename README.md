@@ -152,8 +152,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="80"/> &nbsp; &nbsp; 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/thealgorithms/thealgorithms-original.svg" width="80"/> &nbsp; &nbsp; 
   <img src="https://www.django-rest-framework.org/img/logo.png" width="150" height="120"/> &nbsp; &nbsp; 
-  <img src="https://media3.giphy.com/media/RJzm826vu7WbJvBtxX/giphy.gif?cid=6c09b9525mnvckr4aq4p7kgqs5docnvv9ziaq1u7qnc0xx3s&ep=v1_stickers_related&rid=giphy.gif&ct=s" width="150" height="120"/> &nbsp; &nbsp; 
-  
           
           
 </div>
